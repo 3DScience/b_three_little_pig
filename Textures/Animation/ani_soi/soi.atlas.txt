@@ -1,0 +1,34 @@
+
+soi.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 7
+  rotate: false
+  xy: 2, 63
+  size: 151, 182
+  orig: 151, 182
+  offset: 0, 0
+  index: -1
+thoi_1
+  rotate: true
+  xy: 155, 42
+  size: 100, 96
+  orig: 100, 96
+  offset: 0, 0
+  index: -1
+thoi_2
+  rotate: false
+  xy: 155, 144
+  size: 98, 101
+  orig: 98, 101
+  offset: 0, 0
+  index: -1
+thoi_3
+  rotate: false
+  xy: 2, 2
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1

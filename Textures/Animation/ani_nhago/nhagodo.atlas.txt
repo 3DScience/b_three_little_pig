@@ -1,0 +1,55 @@
+
+nhagodo.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bui_5
+  rotate: false
+  xy: 218, 167
+  size: 78, 58
+  orig: 78, 58
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 2, 227
+  size: 419, 257
+  orig: 419, 257
+  offset: 0, 0
+  index: -1
+bui_1
+  rotate: false
+  xy: 2, 2
+  size: 116, 99
+  orig: 116, 99
+  offset: 0, 0
+  index: -1
+bui_2
+  rotate: false
+  xy: 813, 350
+  size: 188, 134
+  orig: 188, 134
+  offset: 0, 0
+  index: -1
+bui_3
+  rotate: false
+  xy: 2, 103
+  size: 214, 122
+  orig: 214, 122
+  offset: 0, 0
+  index: -1
+bui_4
+  rotate: false
+  xy: 813, 280
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+nhago_Scence_2
+  rotate: false
+  xy: 423, 199
+  size: 388, 285
+  orig: 388, 285
+  offset: 0, 0
+  index: -1
